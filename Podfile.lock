@@ -1,0 +1,42 @@
+PODS:
+  - Action (4.2.0):
+    - RxCocoa (< 7.0, >= 5.0)
+    - RxSwift (< 7.0, >= 5.0)
+  - APIKit (5.2.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.2)
+  - RxWebKit (1.0.2):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+
+DEPENDENCIES:
+  - Action
+  - APIKit
+  - RxCocoa
+  - RxSwift
+  - RxWebKit
+
+SPEC REPOS:
+  trunk:
+    - Action
+    - APIKit
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxWebKit
+
+SPEC CHECKSUMS:
+  Action: 5dc2194f7a0b77857c82a677b0da655f197c005f
+  APIKit: 577bd933169bd289ad6a3fa77a62394eae761619
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 1e2e1f9570186967f617e49128ed26ccf1bafc8e
+  RxWebKit: a3085e7cd8b57182b452692686675702474014dd
+
+PODFILE CHECKSUM: 3a1a7a160b77ceb6c695c678b3d8f4bd1bf7c3ad
+
+COCOAPODS: 1.10.1
